@@ -1,0 +1,5 @@
+DB_USER = temporal
+DB_PASSWD = temporal
+DB_HOST = http://hola.com
+DB_PORT = 9394
+DB_NAME = platzi-cursos
